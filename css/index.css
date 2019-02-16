@@ -37,3 +37,14 @@ header {
  .bootheight{
  	min-height: 520px;
  }
+
+
+
+ @media screen and (max-width: 768px) {
+    img {
+        display: none;
+    }
+    .bootheight{
+ 		min-height: 200px;
+ 	}
+}
