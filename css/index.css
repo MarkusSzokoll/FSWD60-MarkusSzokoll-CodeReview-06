@@ -16,8 +16,15 @@ header {
  }
 
  #sortType{
- 	color: black;
- 	margin: 5px;
+ 	color: blue;
+ 	font-weight: bold;
+ 	margin: 3px;
+ }
+
+ #groupType{
+ 	color: blue;
+ 	font-weight: bold;
+ 	margin: 3px;
  }
 
  .container{
@@ -28,5 +35,5 @@ header {
  }
 
  .bootheight{
- 	min-height: 500px;
+ 	min-height: 520px;
  }
