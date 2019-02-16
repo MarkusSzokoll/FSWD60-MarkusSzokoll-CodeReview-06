@@ -7,9 +7,26 @@ header {
     }
 
  img{
- 	width:  100px;
+ 	width:  200px;
+ 	min-width:  200px;
+ 	max-width:  200px;
+ 	height:  200px;
+ 	min-height: 200px;
+ 	max-height: 200px;
  }
 
  #sortType{
  	color: black;
+ 	margin: 5px;
+ }
+
+ .container{
+ 	width:  100%;
+ 	margin-left: auto;
+ 	margin-right: auto;
+ 	margin-top:  20px;
+ }
+
+ .bootheight{
+ 	min-height: 500px;
  }
